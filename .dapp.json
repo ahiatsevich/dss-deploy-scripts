@@ -173,7 +173,7 @@
     "dsr-manager_363912d": {
       "deps": {
         "ds-test": "ds-test_eb7148d",
-        "dss-deploy": "dss-deploy_cc14f7d"
+        "dss-deploy": "dss-deploy_85a257b"
       },
       "name": "dsr-manager",
       "repo": {
@@ -198,7 +198,7 @@
     "dss-cdp-manager_ef77eee": {
       "deps": {
         "ds-test": "ds-test_eb7148d",
-        "dss-deploy": "dss-deploy_cc14f7d"
+        "dss-deploy": "dss-deploy_85a257b"
       },
       "name": "dss-cdp-manager",
       "repo": {
@@ -212,7 +212,7 @@
       "deps": {
         "ds-proxy": "ds-proxy_4299be4",
         "ds-test": "ds-test_eb7148d",
-        "dss-deploy": "dss-deploy_cc14f7d"
+        "dss-deploy": "dss-deploy_85a257b"
       },
       "name": "dss-deploy-pause-proxy-actions",
       "repo": {
@@ -222,7 +222,7 @@
         "url": "https://github.com/makerdao/dss-deploy-pause-proxy-actions"
       }
     },
-    "dss-deploy_cc14f7d": {
+    "dss-deploy_85a257b": {
       "deps": {
         "ds-auth": "ds-auth_434bf46",
         "ds-pause": "ds-pause_2db7e84",
@@ -232,16 +232,16 @@
       },
       "name": "dss-deploy",
       "repo": {
-        "name": "dss-deploy-cc14f7d",
+        "name": "dss-deploy_85a257b",
         "ref": "HEAD",
-        "rev": "cc14f7d306de88cfc6e71ef602f549193d642552",
-        "url": "https://github.com/makerdao/dss-deploy"
+        "rev": "85a257b2255cd27bc883187796066d5cbda7012b",
+        "url": "https://github.com/ahiatsevich/dss-deploy"
       }
     },
     "dss-gem-joins_c2ba746": {
       "deps": {
         "ds-test": "ds-test_eb7148d",
-        "dss-deploy": "dss-deploy_cc14f7d"
+        "dss-deploy": "dss-deploy_85a257b"
       },
       "name": "dss-gem-joins",
       "repo": {
@@ -457,7 +457,7 @@
       "dsr-manager": "dsr-manager_363912d",
       "dss-auto-line": "dss-auto-line_fe92906",
       "dss-cdp-manager": "dss-cdp-manager_ef77eee",
-      "dss-deploy": "dss-deploy_cc14f7d",
+      "dss-deploy": "dss-deploy_85a257b",
       "dss-deploy-pause-proxy-actions": "dss-deploy-pause-proxy-actions_0eb7ba0",
       "dss-gem-joins": "dss-gem-joins_c2ba746",
       "dss-proxy-actions": "dss-proxy-actions_f9797e2",
